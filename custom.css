@@ -36,3 +36,12 @@ h2 {
 h3 {
     font-family: Arial
 }
+
+#carousel-example-generic {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+#images {
+    margin: 0 auto;
+}
