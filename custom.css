@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
     font-size: 60px;
-    font-family: 'Chewy', cursive;
+    font-family:'Montserrat', sans-serif;
+    color:lightblue;
 }
 #balloon {
     height:170px;
