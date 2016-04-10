@@ -1,15 +1,14 @@
-
-
-    html,
+html,
 body {
     width: 100%;
     height: 100%;
 }
+
 h1 {
     text-align: center;
     font-size: 80px;
     font-family: 'Montserrat', sans-serif;
-    color: lightblue;
+    color: #66ccff;
 }
 
 #balloon {
@@ -21,6 +20,7 @@ h1 {
     font-size: 30px;
     font-family: inherit;
     letter-spacing: 5px;
+    color: #80d4ff;
 }
 
 #balloon {
@@ -67,7 +67,7 @@ h4 {
 
 @media only screen and (min-width: 768px) {
     h1 {
-        color: blue;
+        color: #66c2ff;
     }
     h2 {
         color: blue;
@@ -79,7 +79,7 @@ h4 {
         color: blue;
     }
     .row {
-        color: blue;
+        color: #4db8ff;
     }
     #testimonials {
         color: blue;
@@ -91,7 +91,7 @@ h4 {
 
 @media only screen and (min-width: 992px) {
     h1 {
-        color: #66ccff;
+        color: #0099ff;
     }
     h2 {
         color: blue;
@@ -103,7 +103,7 @@ h4 {
         color: black;
     }
     .row {
-        color: #80d4ff;
+        color: #1aa3ff;
     }
     #testimonials {
         color: black;
