@@ -20,7 +20,7 @@ h1 {
     text-align: center;
     font-size: 80px;
     font-family: 'Montserrat', sans-serif;
-    color: #66ccff;
+    color: #4d4dff;
 }
 
 #balloon {
@@ -43,6 +43,10 @@ h1 {
     opacity: 0.5;
 }
 
+h1 {
+    color: #4d4dff;
+}
+
 p {
     text-align: center;
     font-family: 'Arial', sans-serif;
@@ -54,7 +58,7 @@ h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
-    color: #8080ff;
+    color: #4d4dff;
 }
 
 h3 {
@@ -78,6 +82,13 @@ h4 {
 
 #images {
     margin: 0 auto;
+}
+
+.jumbotron {
+    background: rgba(0, 0, 0, 0.1);
+}
+#contact{
+     background: rgba(0, 0, 0, 0.1);
 }
 
 
