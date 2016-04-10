@@ -5,7 +5,9 @@ body {
     background-attachment: fixed;
 }
 
-
+a {
+    background-color: white;
+}
 html,
 body {
     width: 100%;
