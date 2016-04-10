@@ -1,3 +1,10 @@
+body {
+    background-image: url(img/skyclouds.JPG);
+    background-size: cover;
+    background-repeat :no-repeat;
+    background-attachment: fixed;
+}
+
 html,
 body {
     width: 100%;
@@ -68,6 +75,7 @@ h4 {
 #images {
     margin: 0 auto;
 }
+
 
 
 /*small*/
