@@ -1,8 +1,26 @@
+body {
+    background-image: url(img/hotairballoon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+a {
+    background-color: white;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
 h1 {
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
     font-family: 'Montserrat', sans-serif;
-    color: lightblue;
+    color: #66ccff;
 }
 
 #balloon {
@@ -12,7 +30,9 @@ h1 {
 .row {
     text-align: center;
     font-size: 30px;
-    font-family: 'Chewy', cursive;
+    font-family: 'inherit', sans-serif;
+    letter-spacing: 5px;
+    color: #80d4ff;
 }
 
 #balloon {
@@ -25,27 +45,35 @@ h1 {
 
 p {
     text-align: center;
-    font-family: Arial;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #f2f2f2;
 }
 
 h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: #8080ff;
 }
 
 h3 {
-    font-family: Arial
+    font-family: 'Arial', sans-serif;
 }
 
 h4 {
     text-align: center;
+    font-size: 30px;
+    font-family: Verdana;
+    letter-spacing: 8px
 }
 
 #carousel-example-generic {
-    width: 600px;
-    height: 400px;
+    width: 800px;
+    height: 500px;
     text-align: center;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 #images {
@@ -57,22 +85,22 @@ h4 {
 
 @media only screen and (min-width: 768px) {
     h1 {
-        color: blue;
+        color: #66c2ff;
     }
     h2 {
-        color: blue;
+        color: #4d4dff;
     }
     h4 {
-        color: blue;
+        color: black;
     }
     p {
-        color: blue;
+        color: #00ccff;
     }
     .row {
-        color: blue;
+        color: #4db8ff;
     }
     #testimonials {
-        color: blue;
+        color: #00ccff;
     }
 }
 
@@ -81,21 +109,22 @@ h4 {
 
 @media only screen and (min-width: 992px) {
     h1 {
-        color: lightblue;
+        color: #0099ff;
     }
     h2 {
-        color: lightblue;
+        color: #3333ff;
+        ;
     }
     h4 {
-        color: lightblue;
+        color: black;
     }
     p {
-        color: lightblue;
+        color: #00ccff;
     }
     .row {
-        color: lightblue;
+        color: #1aa3ff;
     }
     #testimonials {
-        color: lightblue;
+        color: #00ccff;
     }
 }
