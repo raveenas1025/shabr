@@ -1,6 +1,13 @@
+
+
+    html,
+body {
+    width: 100%;
+    height: 100%;
+}
 h1 {
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
     font-family: 'Montserrat', sans-serif;
     color: lightblue;
 }
@@ -12,7 +19,8 @@ h1 {
 .row {
     text-align: center;
     font-size: 30px;
-    font-family: 'Chewy', cursive;
+    font-family: inherit;
+    letter-spacing: 5px;
 }
 
 #balloon {
@@ -26,11 +34,13 @@ h1 {
 p {
     text-align: center;
     font-family: Arial;
+    font-size: 20px;
 }
 
 h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
+    font-size: 50px;
 }
 
 h3 {
@@ -42,8 +52,8 @@ h4 {
 }
 
 #carousel-example-generic {
-    width: 600px;
-    height: 400px;
+    width: 800px;
+    height: 500px;
     text-align: center;
     margin: 0 auto;
 }
@@ -81,21 +91,21 @@ h4 {
 
 @media only screen and (min-width: 992px) {
     h1 {
-        color: lightblue;
+        color: #66ccff;
     }
     h2 {
-        color: lightblue;
+        color: blue;
     }
     h4 {
-        color: lightblue;
+        color: black;
     }
     p {
-        color: lightblue;
+        color: black;
     }
     .row {
-        color: lightblue;
+        color: #80d4ff;
     }
     #testimonials {
-        color: lightblue;
+        color: black;
     }
 }
