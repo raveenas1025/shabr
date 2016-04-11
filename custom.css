@@ -7,7 +7,7 @@ body {
 }
 
 a {
-    background-color: white;
+    color: #000066;
 }
 
 html,
@@ -20,7 +20,6 @@ h1 {
     text-align: center;
     font-size: 80px;
     font-family: 'Montserrat', sans-serif;
-    color: #4d4dff;
 }
 
 #balloon {
@@ -32,7 +31,7 @@ h1 {
     font-size: 30px;
     font-family: 'inherit', sans-serif;
     letter-spacing: 5px;
-    color: #80d4ff;
+    color: #1ad1ff;
 }
 
 #balloon {
@@ -44,21 +43,23 @@ h1 {
 }
 
 h1 {
-    color: #4d4dff;
+    color: #1ad1ff;
 }
 
 p {
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    color: #289FC7;
+    <<<<<<< HEAD color: #289FC7;
+    =======color: #000066;
+    >>>>>>> 7bfe8878d4552771b1dbad7483e6ac29c5b7a35c
 }
 
 h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
-    color: #4d4dff;
+    color: #1a66ff;
 }
 
 h3 {
@@ -87,8 +88,9 @@ h4 {
 .jumbotron {
     background: rgba(0, 0, 0, 0.1);
 }
-#contact{
-     background: rgba(0, 0, 0, 0.1);
+
+#contact {
+    background: rgba(0, 0, 0, 0.1);
 }
 
 
@@ -99,19 +101,19 @@ h4 {
         color: #66c2ff;
     }
     h2 {
-        color: #4d4dff;
+        color: blue;
     }
     h4 {
         color: black;
     }
     p {
-        color: #55A7FA;
+        color: #00004d;
     }
     .row {
         color: #4db8ff;
     }
     #testimonials {
-        color: #00ccff;
+        color: #404040;
     }
 }
 
@@ -123,20 +125,19 @@ h4 {
         color: #0099ff;
     }
     h2 {
-        color: #3333ff;
+        color: blue;
         ;
     }
     h4 {
         color: black;
     }
     p {
-        color: #00ccff;
+        color: #00004d;
     }
     .row {
         color: #1aa3ff;
     }
     #testimonials {
-        color: #00ccff;
+        color: #404040;
     }
 }
-
