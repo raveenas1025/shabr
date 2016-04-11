@@ -7,8 +7,9 @@ body {
 }
 
 a {
-color: #000066;
- }
+    color: #000066;
+}
+
 html,
 body {
     width: 100%;
@@ -49,14 +50,16 @@ p {
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    color:   #000066;
+    <<<<<<< HEAD color: #289FC7;
+    =======color: #000066;
+    >>>>>>> 7bfe8878d4552771b1dbad7483e6ac29c5b7a35c
 }
 
 h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
-    color:  #1a66ff;
+    color: #1a66ff;
 }
 
 h3 {
@@ -85,8 +88,9 @@ h4 {
 .jumbotron {
     background: rgba(0, 0, 0, 0.1);
 }
-#contact{
-     background: rgba(0, 0, 0, 0.1);
+
+#contact {
+    background: rgba(0, 0, 0, 0.1);
 }
 
 
@@ -103,7 +107,7 @@ h4 {
         color: black;
     }
     p {
-        color:  #00004d;
+        color: #00004d;
     }
     .row {
         color: #4db8ff;
@@ -121,14 +125,14 @@ h4 {
         color: #0099ff;
     }
     h2 {
-        color:blue;
+        color: blue;
         ;
     }
     h4 {
         color: black;
     }
     p {
-        color:  #00004d;
+        color: #00004d;
     }
     .row {
         color: #1aa3ff;
