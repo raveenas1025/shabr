@@ -50,9 +50,7 @@ p {
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    <<<<<<< HEAD color: #289FC7;
-    =======color: #000066;
-    >>>>>>> 7bfe8878d4552771b1dbad7483e6ac29c5b7a35c
+color: #000066;
 }
 
 h2 {
