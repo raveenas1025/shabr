@@ -42,21 +42,21 @@ h1 {
 }
 
 h1 {
-    color:#1ad1ff;
+    color:#00004d;
 }
 
 p {
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    color: #f2f2f2;
+    color:   #000066;
 }
 
 h2 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
-    color: #4d4dff;
+    color:  #1a66ff;
 }
 
 h3 {
@@ -97,13 +97,13 @@ h4 {
         color: #66c2ff;
     }
     h2 {
-        color: #4d4dff;
+        color: blue;
     }
     h4 {
         color: black;
     }
     p {
-        color: #f2f2f2;
+        color:  #00004d;
     }
     .row {
         color: #4db8ff;
@@ -121,14 +121,14 @@ h4 {
         color: #0099ff;
     }
     h2 {
-        color: #3333ff;
+        color:blue;
         ;
     }
     h4 {
         color: black;
     }
     p {
-        color: #f2f2f2;
+        color:  #00004d;
     }
     .row {
         color: #1aa3ff;
